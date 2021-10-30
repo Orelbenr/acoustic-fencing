@@ -1,0 +1,5 @@
+numpy
+scipy
+torch
+soundfile
+https://github.com/schmiph2/pysepm/archive/master.zip
