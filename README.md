@@ -25,10 +25,7 @@ Acoustic Fence Using Multi-Microphone Speaker Separation
 </h4>
 
 
-
-
-https://user-images.githubusercontent.com/14962234/139452641-68e6b849-0694-450b-8507-cc4b411fb480.mp4
-
+https://github.com/Orelbenr/acoustic-fencing/assets/14962234/655934d3-903d-46e7-80e0-0967c603c108
 
 
 # Acoustic-Fencing 
